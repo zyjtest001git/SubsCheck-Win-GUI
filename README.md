@@ -20,11 +20,10 @@
 > [!WARNING]
 > **请记住**：本软件的主要目的是促进学习、研究和安全测试。作者不支持或认可任何其他用途。使用者应当在合法和负责任的前提下使用本工具。
 
-> [!WARNING]
-> **github**：https://github.com/search?q=v2ray+free&type=repositories&s=stars&o=desc
+### 📋 使用条款
 
-> **FOFA**：https://fofa.info/result?qbase64=Ym9keT0i6Ieq5Yqo5oqT5Y%20WdGfpopHpgZPjgIHorqLpmIXlnLDlnYDjgIHlhazlvIDkupLogZTnvZHkuIrnmoRzc%20OAgXNzcuOAgXZtZXNz44CBdHJvamFu6IqC54K55L%20h5oGvIg%3D%3D
-
+- **[github](https://github.com/search?q=v2ray+free&type=repositories&s=stars&o=desc)**
+- **[FOFA](https://fofa.info/result?qbase64=Ym9keT0i6Ieq5Yqo5oqT5Y%20WdGfpopHpgZPjgIHorqLpmIXlnLDlnYDjgIHlhazlvIDkupLogZTnvZHkuIrnmoRzc%20OAgXNzcuOAgXZtZXNz44CBdHJvamFu6IqC54K55L%20h5oGvIg%3D%3D)**
 ---
 
 ![GUI](./gui.png)
